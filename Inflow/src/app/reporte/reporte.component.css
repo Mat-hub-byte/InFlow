@@ -1,0 +1,28 @@
+
+.report-container {
+    background-color: #f8f9fa; 
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .report-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    border: none;
+  }
+  
+  .report-card-header {
+    background-color: #007bff;
+    color: #fff; 
+    border-bottom: none;
+  }
+  
+  
+  .generate-report-btn {
+    background-color: #007bff; 
+    border: none;
+  }
+  
+  .generate-report-btn:hover {
+    background-color: #0056b3; 
+  }
+  

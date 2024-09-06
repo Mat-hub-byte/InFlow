@@ -1,0 +1,41 @@
+
+
+body {
+    background-color: #2e7fcf
+     
+}
+
+.container {
+    background-color: #f8f9fa;
+    
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.containerseg {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px
+}
+
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: #fff;
+    border-bottom: none;
+}
+
+.card-footer {
+    background-color: #f8f9fa;
+    border-top: none;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
